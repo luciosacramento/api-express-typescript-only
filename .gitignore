@@ -1,0 +1,8 @@
+.env
+node_modules
+app.ts
+router.ts
+config/*.ts
+log/*.ts
+src/**/*.ts
+tsconfig.json
